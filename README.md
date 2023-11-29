@@ -25,13 +25,13 @@ To perform inference, a function employing the greedy algorithm is used. This al
 The translation is then done by converting input sentence into corresponding token representation. The greedy function is used to generate the token format for the translated sentence, which is inturn converted into reabale format, stripped of all special tokens (start and end tokens).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 - #### English - French model
 
 After training for 20 epochs the training and validation losses are 1.773 and 1.724. (Longer training will definitely improve the model performance)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some sample english phrases, their actual translation in french and the predicted translation.
 
 Context: It's bright outside today !
@@ -54,11 +54,12 @@ Context: This translation model is not bad.
 Actual: Ce modele de traduction n'est pas mauvais
 Predicted:  Ce n' est pas mauvais .
 
--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 - #### English - German model
 
 After training for 30 epochs the training and validation losses are  and . 
--------------------------------------------------------------------------------------------------------------
+
 Some sample english phrases, their actual translation in german and the predicted translation.
