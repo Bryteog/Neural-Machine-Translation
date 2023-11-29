@@ -34,23 +34,22 @@ After training for 20 epochs the training and validation losses are 1.773 and 1.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some sample english phrases, their actual translation in french and the predicted translation.
 
-- 
 Context: It's bright outside today !
 Actual: Il est brillant a l'exterieur aujourd'hui !
 Predicted:  C' est désormais aujourd'hui ! 
-- 
+
 Context: Don't forget to dehydrate.
 Actual: N'oubliez pas de deshydrater
 Predicted:  N' oublie pas de oublier . 
-- 
+ 
 Context: I'll see you again tomorrow.
 Actual: Je te reverrai demain
 Predicted:  Je te verrai demain . 
-- 
+ 
 Context: What time is it?
 Actual: Quelle heure est-il?
 Predicted:  À quelle heure est -il ? 
-- 
+ 
 Context: This translation model is not bad.
 Actual: Ce modele de traduction n'est pas mauvais
 Predicted:  Ce n' est pas mauvais .
