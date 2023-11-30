@@ -34,15 +34,15 @@ After training for 20 epochs the training and validation losses are 1.773 and 1.
 
 Some sample english phrases, their actual translation in french and the predicted translation.
 
-Context: It's bright outside today !
+Context: It's bright outside today !  
 
-Actual: Il est brillant a l'exterieur aujourd'hui !
+Actual: Il est brillant a l'exterieur aujourd'hui !  
 
-Predicted:  C' est désormais aujourd'hui ! 
+Predicted:  C' est désormais aujourd'hui !   
 
-Context: Don't forget to dehydrate.
-Actual: N'oubliez pas de deshydrater
-Predicted:  N' oublie pas de oublier . 
+Context: Don't forget to dehydrate.  
+Actual: N'oubliez pas de deshydrater  
+Predicted:  N' oublie pas de oublier .  
  
 Context: I'll see you again tomorrow.
 Actual: Je te reverrai demain
