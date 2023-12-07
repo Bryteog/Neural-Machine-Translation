@@ -60,11 +60,8 @@ Predicted:  Ce n' est pas mauvais .
 
 - #### English - German model
 
-After training for 30 epochs the training and validation losses are  and . 
-
 After training for 30 epochs the training and validation losses are 1.694 and 1.765. 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Some sample english phrases, their actual translation in german and the predicted translation.
 
 Context: It's bright outside today!  
