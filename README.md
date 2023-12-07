@@ -51,7 +51,7 @@ Actual: Quelle heure est-il?
 Predicted:  À quelle heure est -il ?   
  
 Context: This translation model is not bad.  
-Actual: Ce modele de traduction n'est pas mauvais . 
+Actual: Ce modele de traduction n'est pas mauvais .   
 Predicted:  Ce n' est pas mauvais .   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
